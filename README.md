@@ -14,3 +14,4 @@ en todos los ámbitos de nuestras vidas.
 .FastAPI
 .Digital Ocean
 .gitlab
+.nginx
